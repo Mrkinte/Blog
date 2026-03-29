@@ -2,7 +2,7 @@
 	"meta": {
 		"title": "Mrkinte",
 		"description": "Mrkinte的个人博客。",
-		"username": "Suni"
+		"username": "Marjin"
 	},
 	"theme": {
 		"colorBrand": "#35bfab",
@@ -44,22 +44,8 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/Mrkinte",
 			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
-			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
-			"label": "",
 			"order": 1
 		}
 	],
