@@ -1,10 +1,10 @@
 {
 	"artCard": {
-		"width": 838,
-		"height": 453,
+		"width": 800,
+		"height": 460,
 		"order": 3,
-		"offsetX": -276,
-		"offsetY": -264,
+		"offsetX": -400,
+		"offsetY": -230,
 		"enabled": true
 	},
 	"hiCard": {
@@ -69,17 +69,17 @@
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": 624,
-		"offsetY": -262,
+		"offsetX": 460,
+		"offsetY": -230,
 		"enabled": true
 	},
 	"navCard": {
 		"width": 280,
-		"height": 434,
+		"height": 460,
 		"order": 2,
-		"offsetX": -625,
-		"offsetY": -259,
-		"enabled": false
+		"offsetX": -740,
+		"offsetY": -230,
+		"enabled": true
 	},
 	"likePosition": {
 		"width": 54,
@@ -93,8 +93,8 @@
 		"width": 99,
 		"height": 105,
 		"order": 10,
-		"offsetX": -48,
-		"offsetY": -168,
+		"offsetX": null,
+		"offsetY": null,
 		"enabled": false
 	},
 	"beianCard": {
